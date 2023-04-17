@@ -6,7 +6,7 @@
     {
       "renameColumn": {
         "newName": "test2",
-        "oldName": "test",
+        "oldName": "test1",
         "table": "Users"
       }
     }
