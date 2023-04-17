@@ -23,9 +23,9 @@ const tables = [
     name: "Users",
     columns: [
       { name: "name", type: "string" },
-      { name: "email", type: "email" },
       { name: "bio", type: "text" },
-      { name: "test1", type: "string" },
+      { name: "test2", type: "string" },
+      { name: "test3", type: "string" },
     ],
   },
 ] as const;
