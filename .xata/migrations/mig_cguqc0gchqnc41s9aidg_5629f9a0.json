@@ -1,0 +1,16 @@
+{
+  "id": "mig_cguqc0gchqnc41s9aidg",
+  "parentID": "mig_cguqbuguviphpl9ojrjg",
+  "checksum": "1:5629f9a0f72bbacc9dee29ae51cda9c04b787b56d6a7fca521760113cce625f0",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "test3",
+          "type": "string"
+        },
+        "table": "Users"
+      }
+    }
+  ]
+}
